@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: NiceDamage (Classic)
+## Notes: Changes your floating combat text font to something more festive :D
+## Author: Montyburns & Keltir
+## Version: 1.0
+
+NiceDamage.lua
+
