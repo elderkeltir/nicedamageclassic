@@ -5,3 +5,5 @@ All fonts have a backup in special folder.
 Warning! If you use font #6 messages like "parry, miss, dodge" will be bugged. I don't recommend using it.
 
 I don't think any of those fonts will work with other than EN language packs because it only has standart letters. Damage display will work always, but text messages ("PARRY") will be bugged.
+
+Reworked for Classic
